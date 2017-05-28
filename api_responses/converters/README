@@ -1,0 +1,2 @@
+This folder contains convertors that take objects from the seed_data section and convert them to JSON objects that can
+be spat out in the API responses section.
