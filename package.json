@@ -1,0 +1,16 @@
+{
+  "name": "api-spec",
+  "version": "1.0.0",
+  "dependencies": {
+    "glob": "^5.0.5",
+    "lodash": "^3.7.0",
+    "mongodb": "^2.0.28"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipindex/api-spec"
+  },
+  "author": "",
+  "license": "ISC"
+}
